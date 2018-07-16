@@ -19,7 +19,7 @@ Começo hoje o curso preparatório para a certificação CompTIA Linux+, estarei
 
 
 
-Cade assunto terá seu artigo explicativo e questões para fixação de conhecimento. 
+Cada assunto terá seu artigo explicativo e questões para fixação de conhecimento. 
 
 
 
