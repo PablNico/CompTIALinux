@@ -1,9 +1,3 @@
-# Certificação compTIA Linux+
-
-Começo hoje o curso preparatório para a certificação CompTIA Linux+, estarei escrevendo artigos referentes aos meus estudos por motivos ditáticos.
-
-
-
 ## Os assuntos abordados nesse tópico 103 serão:
 
 
